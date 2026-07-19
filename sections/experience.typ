@@ -24,7 +24,7 @@ Stack: PyTorch, Next.js, MLflow, FastAPI, MySQL + SQLAlchemy, Polars, OpenShift
   title: "Data & ML Engineer",
   location: "Villach, Austria",
   date: "Apr 2022 - Mar 2024",
-  description: "Infineon Technologies Austria (KAI)",
+  description: "Infineon Technologies Austria",
 )
 
 #resume-item[
