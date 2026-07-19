@@ -1,6 +1,6 @@
 # Resume
 
-Daniel Tosone's resume and cover letter, built with [Typst](https://typst.app/) using the [modern-cv](https://typst.app/universe/package/modern-cv) template.
+My resume, built with [Typst](https://typst.app/) using the [modern-cv](https://typst.app/universe/package/modern-cv) template.
 
 ## Structure
 
